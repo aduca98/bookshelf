@@ -55,3 +55,69 @@
 - Sentences > paragraphs
 
 - Reading proverbs are really good for making simple ideas with a lot of value in them. Get a book on proverbs?
+
+- When you say 3 things, you say nothing.
+
+- Use "pointers" to concepts. Ex. "JFK" isn't 3 letters, it is a pointer to a person.
+
+- You tap the existing memory terrain of your audience, use what is already there.
+
+- Easier to learn concepts if you tie it to concepts you already know. You associate it with a schema you have. Schema = a collection of generic properties of a concept. Pre-recorded information in your memory.
+
+- Schemas enable simplicity
+
+- An accurate but useless idea is still useless. So don't worry about only using schemas that are perfectly alike. Because that doesn't exist.
+
+- Use analogies = great way to avoid useless accuracy and dodge the Curse of Knowledge
+
+- Ex. Disney calls cast members, they audition for roles, walk around onstage, customers are guests. Etc.. metaphor is useful for Disney employees.
+
+### Concept 2: Unexpected
+
+- The most basic way of getting someones attention is breaking a pattern. Humans adapt to consistent patterns, so breaking it will alert them.
+
+- Brain is designed to be aware of change. Helps us survive.
+
+- Surprise and interest. Surprise gets someones attention.
+
+- We are constantly guessing on what is going to happen. When it goes against what we guess -> that is surprise and it gets our attention. Ex. family trip ad that ended up a car crash for a seatbelt awareness video.
+
+- Brows go up when you are surprised (eyes get bigger, take in more information. evolutionary thing, kinda cool)
+
+- Only use surprise in service to the core message.
+
+- If you want idea to be sticky. Break someones guessing machine and then fix it.
+
+- Process: 1) identify central message (the core) 2) figure out what is counterintuitive about the message 3) communicate message in way that breaks guessing machine
+
+- Nordstrom, make customers happy even at the expense of efficiency. "Nordies" will giftwrap a product bought from Macys. Unexpected.
+
+- Don't bury the lead
+
+- Exercise in journalism class. Gave them all a bunch of information. They started writing a story using Who what where etc... and then he said. The first sentence is "there will be no school next thursday". Don't bury the lead.
+
+- Big numbers don't stick
+
+- Bring things back to tangible. Foreign aid example for how much US spends on it. Instead of $10B a year, it's one soft drink per US person. Feels more tangible.
+
+- Mystery keeps peoples attention
+
+- Create a mystery and invite the reader in. Mysteries create a need for closure.
+
+- Mystery is created from an unexpected journey.
+
+- 1. schema violation (surprise) and then 2) take them on a journey to uncover something. a mystery
+
+- "What will happen next?"
+
+- Curiosity happens when we feel a gap in our knowledge. You can do this by highlighting specific knowledge someone is missing.
+
+- You don't care about something until you find out you didn't know about it.
+
+- Start with a puzzle. "Why do people X do Y, we set out to find out why"
+
+- ABC early on wanted more view time. They had to make people care about sports teams they didn't. Strategy: pan over the city, get you in the shoes of the city people maybe unearth some beef they have with the other team. Teach you so then you are invested in the outcome.
+
+- Give people enough context so they start to care
+
+### Concept 3: TODO:
