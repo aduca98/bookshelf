@@ -120,4 +120,28 @@
 
 - Give people enough context so they start to care
 
-### Concept 3: TODO:
+### Concept 3: Concrete
+
+- Concrete images allow things to persist. Ex. proverb about fox with sour grapes. Image in your head that keeps proverb going for 2,500 years.
+
+- Avoid too much abstraction, make it tangible.
+
+- V8 engine is concrete, "high performance" is abstract
+
+- Teach math by explaining concrete concepts that are familiar instead of just numbers.
+
+- People who are novices crave concreteness.
+
+- Memory is like velcro. Your brain has a bunch of loops (like velcro). The more loops your ideas can latch on to, the better they stick.
+
+- Brown Eyes, Blue Eyes. Lesson to make segregation tangible. Divided students one day. Switched the next. Concept of racism made tangible, you feel it and associate the things you experienced (negative) with it. Made the concept of prejudice concrete.
+
+- Engineers vs Manufacturing. Should aim for manufacturing, they deal with concrete things. Engineers deal in abstraction.
+
+- Exercise. Write down white things. Then write down white things in your fridge. If you're like most people you'll get around the same for both. Concreteness mobilizes your brain to focus.
+
+- Think about specific people and personas, not groups of people. Helps you narrow down on what they want.
+
+### Concept 4: Credibility
+
+- TODO:
