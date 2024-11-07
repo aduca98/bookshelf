@@ -144,4 +144,94 @@
 
 ### Concept 4: Credibility
 
+- We tend to think things will emerge from somewhere. Ex. scientific discovers emerge from Harvard, not Mississippi.
+
+- We believe because our parents or our friends believe. We believe because we've had experiences that led to our beliefs. We believe because of our religious faith. We believe because we trust authorities.
+
+- Authorities are experts or celebrities. Celebrities work because we want to become like them.
+
+- We trust recommendations of people we want to be like.
+
+- Living proof is effective as authority. Ex. you have a person who is proof of what you are talking about.
+
+- Localized details make something acquire credibility.
+
+- Vivid details boost credibility.
+
+- Statistics are good, but make them visual. Ex. to show a bomb dropped a BB bullet into a bucket. Then 1,000 of them. Sensory way to show the statistic (5,000x more explosive)
+
+- Make large number seem meaningful.
+
+- When Cisco had to decide whether to add wireless network for employees. $500 per year. That was if they became 2 minute more productive per day paid for itself.
+
+- Ex. "A deer is more likely to kill you than a shark" to make people less scared of shark attacks. Taps into audiences credibility. They arent scared of deer so this stat shocks them (unexpected)
+
+- "Sinatra Test" - if I can make it here I can make it anywhere
+
+- Show you can do something that is super hard. If you could do that, you could help the person do whatever they need. Source of credibility.
+
+- Where's the beef Wendy's commercial. Huge bun. Take it off, tiny patty. Challenged customers to go to Wendy's to find out. Testable credentials can provide big credibility boost.
+
+- Ronald Reagan "are you better off than 4 years ago" -> testable credentials dig into audience's credibility
+
+### Concept #5: Emotion
+
+- Mother Teresa, "If you look at the mass I will never act. If you look at one you will" focus on specific individuals
+
+- For charity when you focus on one individual always yields more donations then if you focus on the general problem
+
+- ONLY story though is better than story + stats. The stats dilute it in many cases.
+
+- Make people emotional bc then they want to act
+
+- "Anti-authority resentment" - that's an emotion usually resonates with teens/youth. It's about rebellion.
+
+- "isn't about rational decision-marking; it's about rebellion" -> I like this sentence
+
+- Many ideas use piggybacking strategy, associate with emotions that already exist
+
+- People tend to overuse any idea or concept that delivers an emotional kick. Like the word "unique".
+
+- Best way to make people care, associate something they don't care about with something they do.
+
+- Don't tap into the same things, otherwise it loses it's power (like using words like unique)
+
+- Appeal to self-interest, people matter more to themselves.
+
+- People love underdog stories
+
+- "People laughed when I sat down at the piano, but when I started to play" -> underdog
+
+- Try to get self-interest into every headline you write. Huge benefits trivial costs. Ex. "You can laugh at money worries if you follow this simple plan" "give me 5 days to give you a magnetic personality" "the secret of how to be taller" "retire at 55". Emphasize benefits.
+
+- "The most frequent reason for unsuccessful advertising is advertisers who are so full of their own accomplishments that they forget to tell us why we should buy it (ex. the worlds best seed vs what we want which is the worlds best lawn)"
+
+- How do you take this concept without being sleazy though?
+
+- WIIFY - whats in it for you. central aspect of every speech.
+
+- Say "you" not people. Forces you to certain it around who you are talking to and what's in it for them.
+
+- Maslow's hierarchy, transcendence, self-actualization, aesthetic, learning, esteem, belonging, security, physical
+
+- People pursue these in parallel though. Kinda bogus to say you pursue them separately.
+
+- "Self-interest" is usually the physical, security, or esteem layers.
+
+- People usually think they are motivated by the higher ones, and others are motivated by the lower (physical etc...). But we are all actually highly motivated by the higher ones (esteem, learning, belonging).
+
+- Story about army chef, Floyd Lee, in Iraq. "I am not just in charge of food service; I am in charge of morale". He goes for transcendence.
+
+- Group interest can be a better predictor than self interest. You do things that will benefit your group. Like the ads for anti-littering using Texas celebs. Don't mess with texas, people who are like you saying don't litter.
+
+- "Math is like mental weight training" it isn't useful the actual problems but the concepts apply to others and it makes your brain stronger. Like how you don't lift weights so you can pickup a car. Similar analogy.
+
+- Strategies: using associations, appealing to self-interest, appealing to identity (group).
+
+- Ask why three times. "Three Whys". Helps dig down to the core principle or underlying idea.
+
+- Simulations drive employees to emphasize with customers. So do simulations.
+
+### Concept #6: Stories
+
 - TODO:
