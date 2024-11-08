@@ -234,4 +234,26 @@
 
 ### Concept #6: Stories
 
-- TODO:
+- People love underdog stories
+
+- People talk shop because people like to talk to others about the things they have in common
+
+- When we hear a story our minds move from room to room. When we hear a story we simulate it. So give someone something to simulate is the key to a good story.
+
+- When we imagine events, we are invoking the same parts of the brain that would actually do the events.
+
+- Jared from subway, his story packs a wallop because it violates our schema (fast food = unhealthy)
+
+- Aristotle believed there were 4 plots (simple tragic, simple fortunate, complex tragic, complex fortunate)
+
+- We'll simplify it to 3: the challenge, the connection, the creativity
+
+- Challenge plot: David vs Goliath. Obstacles seem daunting. Inspire us bc of perseverance and courage.
+
+- Connection plot: "good samaritan" story. People connecting with each other, usually across some barriers (ex. race or class whatever). Relationship that bridges a gap.
+
+- Creativity plot: mental breakthrough. Ernest Shackleton, faced enormous odds in exploration, created a creative solution where whiny complaining people would sleep with him. Minimized negative influencer by his constant presence.
+
+- Always be looking out for good stories.
+
+- Stories focus people on solutions.
