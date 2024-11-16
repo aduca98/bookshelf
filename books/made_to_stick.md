@@ -257,3 +257,33 @@
 - Always be looking out for good stories.
 
 - Stories focus people on solutions.
+
+### Rest of the book:
+
+- Nice guys finish last has origin of Dodgers vs Giants baseball. People asked him why he was so mean to the other team. And he said nice guys finish last in the second division. and then it was shortened
+
+- We have "idea pride" want message to endure in the form we gave it. it'll take on a life of it's own though
+
+- Keep an eye out. If christmas is coming up we have a nagging reminder "dad is a gadget guy, be on the lookout for cool gadgets"
+
+- Great spotter > great creator. World produces most good ideas, just be looking.
+
+- People remember stories not speeches. Even if they think a speech was good, may not remember it without story.
+
+- Message > presentation (Elon is an example of this)
+
+- For idea to stick it has to make the audience 1) pay attention 2) understand and remember 3) agree/believe 4) care and 5) act on it / be able to act on it
+
+- the SUCCESs accomplishes all of these
+
+- no one is listening => break their guessing machine
+
+- I lose them halway through => make curiosity gaps (mystery they have to solve)
+
+- argue with everything I say => move away from stats and do anecdotes (ex. sinatra test anecdote)
+
+- having a specific type of person you want to help is helpful
+
+- William B Years "Education is not filling a bucket, it is lighting a fire"
+
+- If you want to unstick an idea, fight it with an even stickier idea (only way)
